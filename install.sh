@@ -25,7 +25,7 @@ apt install -y policykit-1-gnome gnome-keyring
 apt install dbus
 
 # Network Manager
-apt install -y network-manager-gnome
+apt install -y network-manager-gnome wireless-tools
 
 # Installation for Appearance management
 apt install -y lxappearance 
